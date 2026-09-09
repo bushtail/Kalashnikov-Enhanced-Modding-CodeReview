@@ -1,0 +1,12 @@
+<Project>
+  <PropertyGroup>
+    <ModVersion>4.1.1</ModVersion>
+    <ModGuid>com.baliston.kalashnikov-enhanced-modding</ModGuid>
+    <ModName>KalashnikovEnhancedModding</ModName>
+    <ModAuthor>BALIST0N</ModAuthor>
+    <ModSourceUrl>https://github.com/danauraborealis/Kalashnikov-Enhanced-Modding</ModSourceUrl>
+    <SptInstallPath Condition="'$(SptInstallPath)' == ''">D:\SPT41Dev</SptInstallPath>
+    <SptRoot Condition="'$(SptRoot)' == ''">$(SptInstallPath)\SPT_Runtime</SptRoot>
+    <CommonLibPath Condition="'$(CommonLibPath)' == ''">$(SptRoot)\user\mods\WTT-ServerCommonLib\WTT-ServerCommonLib.dll</CommonLibPath>
+  </PropertyGroup>
+</Project>

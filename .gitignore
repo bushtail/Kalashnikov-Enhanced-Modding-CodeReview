@@ -3,6 +3,7 @@
 # reports and release archives remain local, including newly created folders.
 /*
 !/.gitignore
+!/Directory.Build.props
 !/KalashnikovEnhancedModding.sln
 !/KalashnikovEnhancedModdingServer/
 !/ServerModFiles/

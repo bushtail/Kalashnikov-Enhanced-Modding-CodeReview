@@ -1,0 +1,22 @@
+# Keep the repository limited to mod source/projects and runtime assets.
+# Root-level analysis, tools, tests, docs, build helpers, references, caches,
+# reports and release archives remain local, including newly created folders.
+/*
+!/.gitignore
+!/KalashnikovEnhancedModding.sln
+!/KalashnikovEnhancedModdingServer/
+!/ServerModFiles/
+
+# Generated output and local IDE settings within the mod projects.
+**/bin/
+**/obj/
+**/.vs/
+*.user
+*.suo
+
+# Legacy/experimental bundles absent from the runtime bundle manifest.
+/ServerModFiles/bundles/masterkey_wip.bundle
+/ServerModFiles/bundles/gasblock/gas_block_ak_custom_ak_cut.bundle
+/ServerModFiles/bundles/gasblock/gas_block_ak_vs_vs_33c_wht_new.bundle
+/ServerModFiles/bundles/handguards/handguard_pp-19-01_hartman_gurza_lower.bundle
+/ServerModFiles/bundles/mount/mod_mount_rmp5_akmn.bundle

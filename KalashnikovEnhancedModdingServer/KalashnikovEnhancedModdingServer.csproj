@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net10.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings><Nullable>enable</Nullable>
+    <AssemblyName>KalashnikovEnhancedModding</AssemblyName><Version>4.1.1</Version>
+    <SptRoot Condition="'$(SptRoot)' == ''">D:/SPT41Dev/SPT_Runtime</SptRoot>
+    <CommonLibPath Condition="'$(CommonLibPath)' == ''">$(SptRoot)/user/mods/WTT-ServerCommonLib/WTT-ServerCommonLib.dll</CommonLibPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <FrameworkReference Include="Microsoft.AspNetCore.App" />
+    <Reference Include="0Harmony"><HintPath>$(SptRoot)/0Harmony.dll</HintPath><Private>false</Private></Reference>
+    <Reference Include="SPTarkov.Server.Core"><HintPath>$(SptRoot)/SPTarkov.Server.Core.dll</HintPath><Private>false</Private></Reference>
+    <Reference Include="SPTarkov.Common"><HintPath>$(SptRoot)/SPTarkov.Common.dll</HintPath><Private>false</Private></Reference>
+    <Reference Include="SPTarkov.DI"><HintPath>$(SptRoot)/SPTarkov.DI.dll</HintPath><Private>false</Private></Reference>
+    <Reference Include="SemanticVersioning"><HintPath>$(SptRoot)/SemanticVersioning.dll</HintPath><Private>false</Private></Reference>
+    <Reference Include="WTT-ServerCommonLib"><HintPath>$(CommonLibPath)</HintPath><Private>false</Private></Reference>
+  </ItemGroup>
+  <ItemGroup><Content Include="../ServerModFiles/db/**/*.json" Link="db/%(RecursiveDir)%(Filename)%(Extension)" CopyToOutputDirectory="PreserveNewest" /></ItemGroup>
+</Project>

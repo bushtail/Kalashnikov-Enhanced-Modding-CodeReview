@@ -1,0 +1,1067 @@
+{
+  "manifest": [
+    {
+      "key": "weapons/body.bundle",
+      "dependencyKeys": []
+    },
+    {
+      "key": "barrel/mod_barrel_15_inch_AKM.bundle",
+      "dependencyKeys": [
+        "assets/systems/effects/smoke.bundle",
+        "cubemaps",
+        "shaders"
+      ]
+    },
+    {
+      "key": "barrel/mod_barrel_15_inch_AK74.bundle",
+      "dependencyKeys": [
+        "assets/systems/effects/smoke.bundle",
+        "cubemaps",
+        "shaders"
+      ]
+    },
+    {
+      "key": "barrel/mod_barrel_11_inch_AK100.bundle",
+      "dependencyKeys": [
+        "assets/systems/effects/smoke.bundle",
+        "cubemaps",
+        "shaders"
+      ]
+    },
+    {
+      "key": "barrel/mod_barrel_ak_tec_arms_dark.bundle",
+      "dependencyKeys": [
+        "assets/systems/effects/smoke.bundle",
+        "cubemaps",
+        "shaders"
+      ]
+    },
+    {
+      "key": "handguards/handguard_ak_akademia_dominator_lower.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "handguards/handguard_ak_alfa_arms_aspid_lower.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "handguards/handguard_ak_545_design_red_heat_agressor_lower.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "handguards/handguard_ak_caa_quad_rail_polymer_lower.bundle",
+      "dependencyKeys": [
+        "assets/commonassets/physics/physicsmaterials.bundle",
+        "shaders",
+        "cubemaps"
+      ]
+    },
+    {
+      "key": "handguards/handguard_ak_cnc_guns_ov_gp_lower.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle",
+        "assets/content/items/mods/handguards/handguard_pp-19-01_izhmash_vityaz_std_plastic_textures.bundle"
+      ]
+    },
+    {
+      "key": "handguards/handguard_ak_cugir_arms_factory_wasr_10_63_std_lower.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "handguards/handguard_ak_hexagon_ak_lower.bundle",
+      "dependencyKeys": [
+        "handguards/handguard_ak_hexagon_ak_mesh_lower.bundle",
+        "assets/commonassets/physics/physicsmaterials.bundle",
+        "shaders",
+        "assets/content/items/mods/handguards/handguard_ak_hexagon_ak_lod0_diff.bundle",
+        "cubemaps",
+        "assets/content/items/mods/handguards/handguard_ak_hexagon_ak_textures.bundle",
+        "assets/content/items/mods/handguards/handguard_pp-19-01_izhmash_vityaz_std_plastic_textures.bundle"
+      ]
+    },
+    {
+      "key": "handguards/handguard_ak_hexagon_ak_red_lower.bundle",
+      "dependencyKeys": [
+        "handguards/handguard_ak_hexagon_ak_mesh_lower.bundle",
+        "assets/commonassets/physics/physicsmaterials.bundle",
+        "shaders",
+        "assets/content/items/mods/handguards/handguard_ak_hexagon_ak_lod0_diff.bundle",
+        "cubemaps",
+        "assets/content/items/mods/handguards/handguard_ak_hexagon_ak_textures.bundle",
+        "assets/content/items/mods/handguards/handguard_pp-19-01_izhmash_vityaz_std_plastic_textures.bundle"
+      ]
+    },
+    {
+      "key": "handguards/handguard_ak_hexagon_ak_mesh_lower.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "assets/content/items/mods/handguards/handguard_pp-19-01_izhmash_vityaz_std_plastic_textures.bundle",
+        "cubemaps",
+        "assets/content/items/mods/handguards/handguard_ak_hexagon_ak_lod0_diff.bundle",
+        "assets/content/items/mods/handguards/handguard_ak_hexagon_ak_textures.bundle"
+      ]
+    },
+    {
+      "key": "handguards/handguard_ak_izhmash_ak74_std_plum_lower.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "handguards/handguard_ak_izhmash_ak74_std_wood_lower.bundle",
+      "dependencyKeys": [
+        "assets/commonassets/physics/physicsmaterials.bundle",
+        "shaders",
+        "cubemaps"
+      ]
+    },
+    {
+      "key": "handguards/handguard_ak_izhmash_ak74m_std_plastic_lower.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "handguards/handguard_ak_izhmash_ak74m_std_plastic_lower_mesh",
+        "assets/commonassets/physics/physicsmaterials.bundle",
+        "cubemaps",
+        "assets/content/items/mods/handguards/handguard_pp-19-01_izhmash_vityaz_std_plastic_textures.bundle"
+      ]
+    },
+    {
+      "key": "handguards/handguard_ak_izhmash_ak74m_std_plastic_lower_mesh",
+      "dependencyKeys": [
+        "shaders",
+        "assets/content/items/mods/handguards/handguard_pp-19-01_izhmash_vityaz_std_plastic_textures.bundle",
+        "cubemaps"
+      ]
+    },
+    {
+      "key": "handguards/handguard_ak_izhmash_ak100_rail_plastic_lower.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "handguards/handguard_ak_izhmash_akm_std_wood_lower.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/content/items/mods/handguards/handguard_ak_izhmash_akm_std_wood_textures.bundle",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "handguards/handguard_ak_krebs_ufm_akm_long_lower.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "handguards/handguard_ak_magpul_moe_ak_blk_lower.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "handguards/handguard_ak_magpul_moe_ak_textures_lower.bundle",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "handguards/handguard_ak_magpul_moe_ak_fde_lower.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "handguards/handguard_ak_magpul_moe_ak_textures_lower.bundle",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "handguards/handguard_ak_magpul_moe_ak_od_lower.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "handguards/handguard_ak_magpul_moe_ak_textures_lower.bundle",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "handguards/handguard_ak_magpul_moe_ak_plm_lower.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "handguards/handguard_ak_magpul_moe_ak_textures_lower.bundle",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "handguards/handguard_ak_magpul_moe_ak_sg_lower.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "handguards/handguard_ak_magpul_moe_ak_textures_lower.bundle",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "handguards/handguard_ak_magpul_moe_ak_textures_lower.bundle",
+      "dependencyKeys": []
+    },
+    {
+      "key": "handguards/handguard_ak_magpul_zhukov_u_blk_lower.bundle",
+      "dependencyKeys": [
+        "assets/commonassets/physics/physicsmaterials.bundle",
+        "handguards/handguard_ak_magpul_zhukov_u_mesh_lower.bundle",
+        "shaders",
+        "assets/content/items/mods/handguards/handguard_ak_magpul_zhukov_u_lod0_gloss_nrm",
+        "cubemaps",
+        "assets/content/items/mods/handguards/handguard_ak_magpul_zhukov_u_blk_textures"
+      ]
+    },
+    {
+      "key": "handguards/handguard_ak_magpul_zhukov_u_fde_lower.bundle",
+      "dependencyKeys": [
+        "assets/commonassets/physics/physicsmaterials.bundle",
+        "handguards/handguard_ak_magpul_zhukov_u_mesh_lower.bundle",
+        "shaders",
+        "assets/content/items/mods/handguards/handguard_ak_magpul_zhukov_u_lod0_gloss_nrm",
+        "cubemaps"
+      ]
+    },
+    {
+      "key": "handguards/handguard_ak_magpul_zhukov_u_plm_lower.bundle",
+      "dependencyKeys": [
+        "assets/commonassets/physics/physicsmaterials.bundle",
+        "handguards/handguard_ak_magpul_zhukov_u_mesh_lower.bundle",
+        "shaders",
+        "assets/content/items/mods/handguards/handguard_ak_magpul_zhukov_u_lod0_gloss_nrm",
+        "cubemaps"
+      ]
+    },
+    {
+      "key": "handguards/handguard_ak_magpul_zhukov_u_mesh_lower.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "assets/content/items/mods/handguards/handguard_ak_magpul_zhukov_u_lod0_gloss_nrm",
+        "cubemaps",
+        "assets/content/items/mods/handguards/handguard_ak_magpul_zhukov_u_blk_textures"
+      ]
+    },
+    {
+      "key": "handguards/handguard_ak_molot_vepr_km_vpo_136_lower.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "assets/content/items/mods/handguards/handguard_ak_molot_vepr_km_vpo_136_lod0_textures.bundle",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle",
+        "assets/content/weapons/ak74/client_assets.bundle"
+      ]
+    },
+    {
+      "key": "handguards/handguard_ak_molot_vepr_km_vpo_209_lower.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "assets/content/items/mods/handguards/handguard_ak_molot_vepr_km_vpo_209_textures.bundle",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "handguards/handguard_ak_strike_industries_trax_1_lower.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "assets/content/items/mods/handguards/handguard_ak_strike_industries_trax_1_textures",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "handguards/handguard_ak_tdi_akm_l_lower.bundle",
+      "dependencyKeys": [
+        "assets/commonassets/physics/physicsmaterials.bundle",
+        "handguards/handguard_ak_tdi_akm_l_mesh_lower.bundle",
+        "shaders",
+        "assets/content/items/mods/handguards/handguard_ak_khyber_swiss_grather_lod0_textures",
+        "cubemaps"
+      ]
+    },
+    {
+      "key": "handguards/handguard_ak_tdi_akm_l_gld_lower.bundle",
+      "dependencyKeys": [
+        "assets/commonassets/physics/physicsmaterials.bundle",
+        "handguards/handguard_ak_tdi_akm_l_mesh_lower.bundle",
+        "shaders",
+        "assets/content/items/mods/handguards/handguard_ak_khyber_swiss_grather_lod0_textures",
+        "cubemaps"
+      ]
+    },
+    {
+      "key": "handguards/handguard_ak_tdi_akm_l_red_lower.bundle",
+      "dependencyKeys": [
+        "assets/commonassets/physics/physicsmaterials.bundle",
+        "handguards/handguard_ak_tdi_akm_l_mesh_lower.bundle",
+        "shaders",
+        "assets/content/items/mods/handguards/handguard_ak_khyber_swiss_grather_lod0_textures",
+        "cubemaps"
+      ]
+    },
+    {
+      "key": "handguards/handguard_ak_tdi_akm_l_mesh_lower.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "assets/content/items/mods/handguards/handguard_ak_khyber_swiss_grather_lod0_textures",
+        "cubemaps"
+      ]
+    },
+    {
+      "key": "handguards/handguard_ak_tdi_x47_lower.bundle",
+      "dependencyKeys": [
+        "assets/content/items/mods/handguards/handguard_ak_tdi_x47_textures.bundle",
+        "shaders",
+        "assets/commonassets/physics/physicsmaterials.bundle",
+        "cubemaps"
+      ]
+    },
+    {
+      "key": "handguards/handguard_ak_troy_vent_hole_lower.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "handguards/handguard_ak_vltor_cmrd_lower.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "handguards/handguard_ak_vs_vs_33c_lower.bundle",
+      "dependencyKeys": [
+        "assets/commonassets/physics/physicsmaterials.bundle",
+        "shaders",
+        "assets/content/items/mods/gasblock/gas_block_ak_vs_vs_33c_textures",
+        "cubemaps"
+      ]
+    },
+    {
+      "key": "handguards/handguard_ak_vs_vs_33c_wht_lower.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "assets/content/items/mods/gasblock/gas_block_ak_vs_vs_33c_textures",
+        "assets/commonassets/physics/physicsmaterials.bundle",
+        "cubemaps"
+      ]
+    },
+    {
+      "key": "handguards/handguard_ak_zenit_b10_lower.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "assets/content/items/mods/handguards/handguard_pp-19-01_izhmash_vityaz_std_plastic_textures.bundle",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "handguards/handguard_ak_zenit_b10m_lower.bundle",
+      "dependencyKeys": [
+        "assets/commonassets/physics/physicsmaterials.bundle",
+        "shaders",
+        "cubemaps"
+      ]
+    },
+    {
+      "key": "handguards/handguard_ak_zenit_b30_lower.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "handguards/handguard_slr_ion_lite_704.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "handguards/uppers/handguard_ak_akademia_dominator_upper.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "handguards/uppers/handguard_ak_alfa_arms_aspid_upper.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "handguards/uppers/handguard_ak_545_design_red_heat_agressor_upper.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "handguards/uppers/handguard_ak_caa_quad_rail_polymer_upper.bundle",
+      "dependencyKeys": [
+        "assets/commonassets/physics/physicsmaterials.bundle",
+        "shaders",
+        "cubemaps"
+      ]
+    },
+    {
+      "key": "handguards/uppers/handguard_ak_izhmash_ak74_std_plum_upper.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "handguards/uppers/handguard_ak_izhmash_ak74_std_wood_upper.bundle",
+      "dependencyKeys": [
+        "assets/commonassets/physics/physicsmaterials.bundle",
+        "shaders",
+        "cubemaps"
+      ]
+    },
+    {
+      "key": "handguards/uppers/handguard_ak_izhmash_ak74m_std_plastic_upper.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "handguards/uppers/handguard_ak_izhmash_ak74m_std_plastic_upper_mesh",
+        "assets/commonassets/physics/physicsmaterials.bundle",
+        "cubemaps",
+        "assets/content/items/mods/handguards/handguard_pp-19-01_izhmash_vityaz_std_plastic_textures.bundle"
+      ]
+    },
+    {
+      "key": "handguards/uppers/handguard_ak_izhmash_ak74m_std_plastic_upper_mesh",
+      "dependencyKeys": [
+        "shaders",
+        "assets/content/items/mods/handguards/handguard_pp-19-01_izhmash_vityaz_std_plastic_textures.bundle",
+        "cubemaps"
+      ]
+    },
+    {
+      "key": "handguards/uppers/handguard_ak_izhmash_akm_std_wood_upper.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/content/items/mods/handguards/handguard_ak_izhmash_akm_std_wood_textures.bundle",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "handguards/uppers/handguard_ak_khyber_swiss_grather_upper.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "assets/content/items/mods/handguards/handguard_ak_khyber_swiss_grather_lod0_textures",
+        "cubemaps"
+      ]
+    },
+    {
+      "key": "handguards/uppers/handguard_ak_krebs_ufm_akm_long_upper.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "handguards/uppers/handguard_ak_cnc_guns_ov_gp_upper.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle",
+        "assets/content/items/mods/handguards/handguard_pp-19-01_izhmash_vityaz_std_plastic_textures.bundle"
+      ]
+    },
+    {
+      "key": "handguards/uppers/handguard_ak_magpul_moe_ak_blk_upper.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "handguards/uppers/handguard_ak_magpul_moe_ak_textures_upper.bundle",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "handguards/uppers/handguard_ak_magpul_moe_ak_fde_upper.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "handguards/uppers/handguard_ak_magpul_moe_ak_textures_upper.bundle",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "handguards/uppers/handguard_ak_magpul_moe_ak_od_upper.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "handguards/uppers/handguard_ak_magpul_moe_ak_textures_upper.bundle",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "handguards/uppers/handguard_ak_magpul_moe_ak_plm_upper.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "handguards/uppers/handguard_ak_magpul_moe_ak_textures_upper.bundle",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "handguards/uppers/handguard_ak_magpul_moe_ak_sg_upper.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "handguards/uppers/handguard_ak_magpul_moe_ak_textures_upper.bundle",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "handguards/uppers/handguard_ak_magpul_moe_ak_textures_upper.bundle",
+      "dependencyKeys": []
+    },
+    {
+      "key": "handguards/uppers/handguard_ak_molot_vepr_km_vpo_136_upper.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "assets/content/items/mods/handguards/handguard_ak_molot_vepr_km_vpo_136_lod0_textures.bundle",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "handguards/uppers/handguard_ak_molot_vepr_km_vpo_209_upper.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "assets/content/items/mods/handguards/handguard_ak_molot_vepr_km_vpo_209_textures.bundle",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "handguards/uppers/handguard_ak_strike_industries_trax_1_upper.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "assets/content/items/mods/handguards/handguard_ak_strike_industries_trax_1_textures",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "handguards/uppers/handguard_ak_tdi_x47_upper.bundle",
+      "dependencyKeys": [
+        "assets/content/items/mods/handguards/handguard_ak_tdi_x47_textures.bundle",
+        "shaders",
+        "assets/commonassets/physics/physicsmaterials.bundle",
+        "cubemaps"
+      ]
+    },
+    {
+      "key": "handguards/uppers/handguard_ak_vltor_cmrd_upper.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "handguards/uppers/handguard_ak_zenit_b19_upper.bundle",
+      "dependencyKeys": [
+        "assets/commonassets/physics/physicsmaterials.bundle",
+        "shaders",
+        "cubemaps"
+      ]
+    },
+    {
+      "key": "handguards/uppers/handguard_ak_zenit_b31_upper.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "gasblock/gas_block_ak_troy_new.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "gasblock/gas_block_ak_ultimak_m1b_new.bundle",
+      "dependencyKeys": [
+        "assets/commonassets/physics/physicsmaterials.bundle",
+        "shaders",
+        "cubemaps",
+        "assets/content/items/mods/handguards/handguard_pp-19-01_izhmash_vityaz_std_plastic_textures.bundle",
+        "assets/content/items/mods/gasblock/gas_block_ak_ultimak_m1b_textures.bundle"
+      ]
+    },
+    {
+      "key": "gasblock/gas_block_ak_vs_vs_33c_new.bundle",
+      "dependencyKeys": [
+        "assets/commonassets/physics/physicsmaterials.bundle",
+        "shaders",
+        "assets/content/items/mods/gasblock/gas_block_ak_vs_vs_33c_textures",
+        "cubemaps"
+      ]
+    },
+    {
+      "key": "gasblock/gas_block_akp_slr_ak_railed.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "gasblock/gas_block_ak_izhmash_ak74_std_new.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "assets/content/items/mods/handguards/handguard_pp-19-01_izhmash_vityaz_std_plastic_textures.bundle",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "gasblock/gas_block_ak_izhmash_akm_std_new.bundle",
+      "dependencyKeys": [
+        "assets/commonassets/physics/physicsmaterials.bundle",
+        "shaders",
+        "cubemaps",
+        "assets/content/items/mods/handguards/handguard_ak_izhmash_akm_std_wood_textures.bundle"
+      ]
+    },
+    {
+      "key": "gasblock/gas_block_ak_izhmash_pp-19-01_std_new.bundle",
+      "dependencyKeys": [
+        "assets/commonassets/physics/physicsmaterials.bundle",
+        "shaders",
+        "cubemaps",
+        "assets/content/items/mods/handguards/handguard_pp-19-01_izhmash_vityaz_std_plastic_textures.bundle"
+      ]
+    },
+    {
+      "key": "gasblock/gas_block_ak_molot_vepr_km_vpo_136_new.bundle",
+      "dependencyKeys": [
+        "assets/commonassets/physics/physicsmaterials.bundle",
+        "shaders",
+        "cubemaps",
+        "assets/content/items/mods/handguards/handguard_ak_molot_vepr_km_vpo_136_lod0_textures.bundle"
+      ]
+    },
+    {
+      "key": "mount/mod_mount_rmp_pm.bundle",
+      "dependencyKeys": [
+        "assets/content/weapons/ak74m/client_assets.bundle"
+      ]
+    },
+    {
+      "key": "mount/mod_mount_rmp3.bundle",
+      "dependencyKeys": [
+        "assets/content/weapons/ak74/client_assets.bundle"
+      ]
+    },
+    {
+      "key": "mount/mod_mount_rmp5_akmsn.bundle",
+      "dependencyKeys": [
+        "assets/content/weapons/akm/client_assets.bundle"
+      ]
+    },
+    {
+      "key": "weapons/weapon_izhmash_ak100_series_new.bundle",
+      "dependencyKeys": [
+        "assets/content/weapons/ak74/client_assets.bundle",
+        "assets/content/weapons/wip/kibas tuning prefabs/muzzlejets_templates/default_assets.bundle",
+        "assets/systems/effects/muzzleflash/muzzleflash.bundle",
+        "assets/systems/effects/heathaze/defaultheathaze.bundle",
+        "assets/systems/effects/smoke.bundle",
+        "assets/content/weapons/animations/simple_animations.bundle",
+        "assets/content/weapons/weapon_root_anim_fix.bundle",
+        "assets/content/weapons/additional_hands/client_assets.bundle",
+        "assets/content/audio/weapons/generic",
+        "assets/content/audio/weapons/ak74.bundle",
+        "assets/content/audio/banks/ak74.bundle",
+        "assets/commonassets/physics/physicsmaterials.bundle",
+        "shaders",
+        "assets/content/weapons/ak74/textures/client_assets.bundle",
+        "assets/content/weapons/ak74m/textures/client_assets.bundle",
+        "cubemaps",
+        "assets/content/weapons/animations/spirit_animations.bundle",
+        "assets/content/audio/blendoptions/assets.bundle",
+        "assets/content/weapons/aks74/client_assets.bundle",
+        "assets/content/weapons/aks74/weapon_izhmash_aks74n_545x39_container.bundle",
+        "weapons/body.bundle",
+        "assets/content/weapons/ak100/weapon_izhmash_ak105_545x39_container.bundle",
+        "assets/content/weapons/ak100/client_assets.bundle"
+      ]
+    },
+    {
+      "key": "weapons/weapon_izhmash_ak74n_545x39_new.bundle",
+      "dependencyKeys": [
+        "assets/content/weapons/ak74/client_assets.bundle",
+        "assets/content/weapons/wip/kibas tuning prefabs/muzzlejets_templates/default_assets.bundle",
+        "assets/systems/effects/muzzleflash/muzzleflash.bundle",
+        "assets/systems/effects/heathaze/defaultheathaze.bundle",
+        "assets/systems/effects/smoke.bundle",
+        "assets/content/weapons/animations/simple_animations.bundle",
+        "assets/content/weapons/weapon_root_anim_fix.bundle",
+        "assets/content/weapons/additional_hands/client_assets.bundle",
+        "assets/content/audio/weapons/generic",
+        "assets/content/audio/weapons/ak74.bundle",
+        "assets/content/audio/banks/ak74.bundle",
+        "assets/commonassets/physics/physicsmaterials.bundle",
+        "shaders",
+        "assets/content/weapons/ak74/textures/client_assets.bundle",
+        "assets/content/weapons/ak74m/textures/client_assets.bundle",
+        "cubemaps",
+        "assets/content/weapons/animations/spirit_animations.bundle",
+        "assets/content/audio/blendoptions/assets.bundle",
+        "weapons/body.bundle"
+      ]
+    },
+    {
+      "key": "weapons/weapon_izhmash_akmn_762x39_new.bundle",
+      "dependencyKeys": [
+        "assets/content/weapons/akm/client_assets.bundle",
+        "assets/commonassets/physics/physicsmaterials.bundle",
+        "assets/content/weapons/akm/weapon_molot_akm_vpo_209_366tkm_container.bundle",
+        "assets/content/weapons/wip/kibas tuning prefabs/muzzlejets_templates/default_assets.bundle",
+        "assets/systems/effects/muzzleflash/muzzleflash.bundle",
+        "assets/systems/effects/heathaze/defaultheathaze.bundle",
+        "assets/content/audio/banks/akm.bundle",
+        "assets/content/audio/blendoptions/assets.bundle",
+        "shaders",
+        "assets/content/audio/weapons/generic",
+        "assets/content/weapons/animations/spirit_animations.bundle",
+        "assets/content/audio/weapons/ak74.bundle",
+        "assets/content/weapons/additional_hands/client_assets.bundle",
+        "assets/content/audio/weapons/akm.bundle",
+        "assets/content/audio/weapons/akm/instrumental.bundle",
+        "assets/content/weapons/animations/simple_animations.bundle",
+        "cubemaps",
+        "assets/content/items/mods/handguards/handguard_ak_izhmash_akm_std_wood_textures.bundle",
+        "assets/content/weapons/weapon_root_anim_fix.bundle",
+        "assets/systems/effects/smoke.bundle",
+        "assets/content/weapons/akm/textures/client_assets.bundle",
+        "weapons/body.bundle",
+        "assets/content/weapons/ak74/client_assets.bundle"
+      ]
+    },
+    {
+      "key": "weapons/weapon_izhmash_akmsn_762x39_new.bundle",
+      "dependencyKeys": [
+        "assets/content/weapons/akm/client_assets.bundle",
+        "assets/commonassets/physics/physicsmaterials.bundle",
+        "assets/systems/effects/muzzleflash/muzzleflash.bundle",
+        "assets/content/audio/weapons/generic",
+        "assets/content/audio/weapons/ak74.bundle",
+        "assets/content/audio/weapons/akm/instrumental.bundle",
+        "assets/content/audio/banks/akm.bundle",
+        "assets/systems/effects/smoke.bundle",
+        "shaders",
+        "cubemaps",
+        "assets/content/items/mods/handguards/handguard_ak_izhmash_akm_std_wood_textures.bundle",
+        "assets/content/weapons/akm/textures/client_assets.bundle",
+        "assets/content/weapons/akm/weapon_molot_akm_vpo_209_366tkm_container.bundle",
+        "assets/content/audio/blendoptions/assets.bundle",
+        "assets/content/weapons/animations/spirit_animations.bundle",
+        "assets/content/weapons/additional_hands/client_assets.bundle",
+        "assets/content/audio/weapons/akm.bundle",
+        "assets/systems/effects/heathaze/defaultheathaze.bundle",
+        "assets/content/weapons/animations/simple_animations.bundle",
+        "assets/content/weapons/weapon_root_anim_fix.bundle",
+        "assets/content/weapons/wip/kibas tuning prefabs/muzzlejets_templates/default_assets.bundle",
+        "weapons/body.bundle"
+      ]
+    },
+    {
+      "key": "weapons/weapon_izhmash_pp-19-01_9x19_new.bundle",
+      "dependencyKeys": [
+        "assets/content/weapons/pp-19-01/client_assets.bundle",
+        "assets/commonassets/physics/physicsmaterials.bundle",
+        "assets/systems/effects/smoke.bundle",
+        "assets/systems/effects/muzzleflash/muzzleflash.bundle",
+        "shaders",
+        "assets/content/weapons/pp-19-01/textures/client_assets.bundle",
+        "cubemaps",
+        "assets/content/items/mods/handguards/handguard_pp-19-01_izhmash_vityaz_std_plastic_textures.bundle",
+        "assets/content/weapons/pp-19-01/weapon_izhmash_saiga_9_9x19_container.bundle",
+        "assets/content/audio/banks/vityaz.bundle",
+        "assets/content/audio/blendoptions/assets.bundle",
+        "assets/content/audio/weapons/vityaz.bundle",
+        "assets/content/audio/weapons/saiga12.bundle",
+        "assets/content/audio/weapons/mpx.bundle",
+        "assets/content/audio/weapons/generic",
+        "assets/content/weapons/animations/spirit_animations.bundle",
+        "assets/content/audio/weapons/ak74.bundle",
+        "assets/content/weapons/additional_hands/client_assets.bundle",
+        "assets/systems/effects/heathaze/defaultheathaze.bundle",
+        "assets/content/audio/weapons/kedr.bundle",
+        "assets/content/weapons/animations/simple_animations.bundle",
+        "assets/content/audio/weapons/aksu.bundle",
+        "assets/content/weapons/weapon_root_anim_fix.bundle",
+        "assets/content/weapons/wip/kibas tuning prefabs/muzzlejets_templates/default_assets.bundle"
+      ]
+    },
+    {
+      "key": "weapons/weapon_izhmash_saiga_9_9x19_new.bundle",
+      "dependencyKeys": [
+        "assets/content/weapons/pp-19-01/client_assets.bundle",
+        "assets/systems/effects/smoke.bundle",
+        "assets/commonassets/physics/physicsmaterials.bundle",
+        "assets/content/weapons/animations/spirit_animations.bundle",
+        "assets/content/weapons/weapon_root_anim_fix.bundle",
+        "assets/content/weapons/additional_hands/client_assets.bundle",
+        "assets/content/weapons/animations/simple_animations.bundle",
+        "assets/systems/effects/muzzleflash/muzzleflash.bundle",
+        "assets/content/audio/banks/vityaz.bundle",
+        "assets/content/audio/blendoptions/assets.bundle",
+        "assets/content/weapons/pp-19-01/textures/client_assets.bundle",
+        "shaders",
+        "assets/content/audio/weapons/vityaz.bundle",
+        "assets/content/audio/weapons/saiga12.bundle",
+        "assets/content/audio/weapons/mpx.bundle",
+        "assets/content/audio/weapons/generic",
+        "assets/content/audio/weapons/ak74.bundle",
+        "assets/systems/effects/heathaze/defaultheathaze.bundle",
+        "assets/content/audio/weapons/kedr.bundle",
+        "cubemaps",
+        "assets/content/audio/weapons/aksu.bundle",
+        "assets/content/items/mods/handguards/handguard_pp-19-01_izhmash_vityaz_std_plastic_textures.bundle",
+        "assets/content/weapons/wip/kibas tuning prefabs/muzzlejets_templates/default_assets.bundle"
+      ]
+    },
+    {
+      "key": "weapons/weapon_molot_akm_vpo_209_366tkm_new.bundle",
+      "dependencyKeys": [
+        "assets/content/weapons/akm/client_assets.bundle",
+        "assets/commonassets/physics/physicsmaterials.bundle",
+        "assets/content/audio/weapons/generic",
+        "assets/content/audio/weapons/ak74.bundle",
+        "assets/content/audio/weapons/akm/instrumental.bundle",
+        "assets/content/audio/banks/vpo209.bundle",
+        "assets/content/weapons/wip/kibas tuning prefabs/muzzlejets_templates/default_assets.bundle",
+        "assets/systems/effects/muzzleflash/muzzleflash.bundle",
+        "assets/systems/effects/heathaze/defaultheathaze.bundle",
+        "assets/systems/effects/smoke.bundle",
+        "assets/content/weapons/animations/simple_animations.bundle",
+        "assets/content/weapons/weapon_root_anim_fix.bundle",
+        "assets/content/weapons/additional_hands/client_assets.bundle",
+        "shaders",
+        "cubemaps",
+        "assets/content/weapons/akm/textures/client_assets.bundle",
+        "assets/content/items/mods/handguards/handguard_ak_molot_vepr_km_vpo_209_textures.bundle",
+        "assets/content/audio/blendoptions/assets.bundle",
+        "assets/content/weapons/animations/spirit_animations.bundle",
+        "assets/content/audio/weapons/akm/vpo209.bundle"
+      ]
+    },
+    {
+      "key": "weapons/weapon_molot_vepr_km_vpo_136_762x39_new.bundle",
+      "dependencyKeys": [
+        "assets/content/weapons/akm/client_assets.bundle",
+        "assets/commonassets/physics/physicsmaterials.bundle",
+        "assets/systems/effects/muzzleflash/muzzleflash.bundle",
+        "shaders",
+        "assets/content/items/mods/handguards/handguard_ak_molot_vepr_km_vpo_136_lod0_textures.bundle",
+        "cubemaps",
+        "assets/systems/effects/smoke.bundle",
+        "assets/content/weapons/akm/textures/client_assets.bundle",
+        "assets/content/weapons/akm/weapon_molot_akm_vpo_209_366tkm_container.bundle",
+        "assets/content/audio/banks/akm.bundle",
+        "assets/content/audio/blendoptions/assets.bundle",
+        "assets/content/audio/weapons/generic",
+        "assets/content/weapons/animations/spirit_animations.bundle",
+        "assets/content/audio/weapons/ak74.bundle",
+        "assets/content/weapons/additional_hands/client_assets.bundle",
+        "assets/content/audio/weapons/akm.bundle",
+        "assets/systems/effects/heathaze/defaultheathaze.bundle",
+        "assets/content/audio/weapons/akm/instrumental.bundle",
+        "assets/content/weapons/animations/simple_animations.bundle",
+        "assets/content/weapons/weapon_root_anim_fix.bundle",
+        "assets/content/weapons/wip/kibas tuning prefabs/muzzlejets_templates/default_assets.bundle",
+        "weapons/body.bundle",
+        "assets/content/weapons/ak74/client_assets.bundle"
+      ]
+    },
+    {
+      "key": "weapons/weapon_rifle_dynamics_704_762x39_new.bundle",
+      "dependencyKeys": [
+        "assets/content/weapons/rd704/client_assets.bundle",
+        "assets/commonassets/physics/physicsmaterials.bundle",
+        "assets/systems/effects/smoke.bundle",
+        "assets/content/weapons/ak100/client_assets.bundle",
+        "assets/content/weapons/animations/spirit_animations.bundle",
+        "assets/content/weapons/weapon_root_anim_fix.bundle",
+        "assets/content/weapons/additional_hands/client_assets.bundle",
+        "assets/content/audio/weapons/generic",
+        "assets/content/audio/weapons/ak74.bundle",
+        "assets/content/audio/weapons/saiga12.bundle",
+        "assets/content/audio/blendoptions/assets.bundle",
+        "assets/content/weapons/wip/kibas tuning prefabs/muzzlejets_templates/default_assets.bundle",
+        "assets/systems/effects/muzzleflash/muzzleflash.bundle",
+        "assets/systems/effects/heathaze/defaultheathaze.bundle",
+        "shaders",
+        "assets/content/weapons/rd704/textures/client_assets.bundle",
+        "cubemaps"
+      ]
+    },
+    {
+      "key": "weapons/weapon_izhmash_aks74un_545x39_new.bundle",
+      "dependencyKeys": [
+        "assets/content/weapons/aks74u/client_assets.bundle",
+        "assets/commonassets/physics/physicsmaterials.bundle",
+        "assets/systems/effects/muzzleflash/muzzleflash.bundle",
+        "assets/content/weapons/wip/kibas tuning prefabs/muzzlejets_templates/default_assets.bundle",
+        "assets/content/weapons/animations/spirit_animations.bundle",
+        "assets/content/weapons/additional_hands/client_assets.bundle",
+        "assets/content/weapons/weapon_root_anim_fix.bundle",
+        "shaders",
+        "assets/content/items/mods/handguards/handguard_aks74u_izhmash_aks74u_std_wood_lod0_textures.bundle",
+        "assets/content/weapons/aks74u/textures/client_assets.bundle",
+        "cubemaps",
+        "assets/systems/effects/smoke.bundle",
+        "assets/content/audio/banks/aksu.bundle",
+        "assets/content/audio/blendoptions/assets.bundle",
+        "assets/content/audio/weapons/generic",
+        "assets/content/audio/weapons/ak74.bundle",
+        "assets/content/weapons/animations/simple_animations.bundle",
+        "assets/content/audio/weapons/aksu.bundle"
+      ]
+    },
+    {
+      "key": "weapons/weapon_izhmash_aks74n_545x39_new.bundle",
+      "dependencyKeys": [
+        "assets/content/weapons/ak74/client_assets.bundle",
+        "assets/content/weapons/wip/kibas tuning prefabs/muzzlejets_templates/default_assets.bundle",
+        "assets/systems/effects/muzzleflash/muzzleflash.bundle",
+        "assets/systems/effects/heathaze/defaultheathaze.bundle",
+        "assets/systems/effects/smoke.bundle",
+        "assets/content/weapons/animations/simple_animations.bundle",
+        "assets/content/weapons/weapon_root_anim_fix.bundle",
+        "assets/content/weapons/additional_hands/client_assets.bundle",
+        "assets/content/audio/weapons/generic",
+        "assets/content/audio/weapons/ak74.bundle",
+        "assets/content/audio/banks/ak74.bundle",
+        "assets/commonassets/physics/physicsmaterials.bundle",
+        "shaders",
+        "assets/content/weapons/ak74/textures/client_assets.bundle",
+        "assets/content/weapons/ak74m/textures/client_assets.bundle",
+        "cubemaps",
+        "assets/content/weapons/animations/spirit_animations.bundle",
+        "assets/content/audio/blendoptions/assets.bundle",
+        "assets/content/weapons/aks74/client_assets.bundle",
+        "assets/content/weapons/aks74/weapon_izhmash_aks74n_545x39_container.bundle",
+        "weapons/body.bundle"
+      ]
+    },
+    {
+      "key": "AK_Mod_0/texas_dog_leg_beryl_style_rail.bundle",
+      "dependencyKeys": [
+        "shaders"
+      ]
+    },
+    {
+      "key": "AK_Mod_0/popc_gen4_std.bundle",
+      "dependencyKeys": [
+        "shaders"
+      ]
+    },
+    {
+      "key": "AK_Mod_0/popc_akm_ar_adapter.bundle",
+      "dependencyKeys": [
+        "shaders"
+      ]
+    },
+    {
+      "key": "AK_Mod_0/popc_ak100_ar_adapter.bundle",
+      "dependencyKeys": [
+        "shaders"
+      ]
+    },
+    {
+      "key": "AK_Mod_0/handguard_chassis_mk3_texture.bundle",
+      "dependencyKeys": [
+        "shaders"
+      ]
+    },
+    {
+      "key": "AK_Mod_0/handguard_ak_sag_mk3_chassis.bundle",
+      "dependencyKeys": [
+        "AK_Mod_0/handguard_chassis_mk3_texture.bundle",
+        "shaders"
+      ]
+    },
+    {
+      "key": "AK_Mod_0/reciever_ak_sag_mk3_std.bundle",
+      "dependencyKeys": [
+        "shaders"
+      ]
+    },
+    {
+      "key": "AK_Mod_0/stock_ak_sig_thin_foldable.bundle",
+      "dependencyKeys": [
+        "shaders"
+      ]
+    },
+    {
+      "key": "AK_Mod_0/handguard_aks74u_zenit_b11_blk.bundle",
+      "dependencyKeys": [
+        "shaders"
+      ]
+    },
+    {
+      "key": "AK_Mod_0/handguard_ak_sag_mk2.bundle",
+      "dependencyKeys": [
+        "shaders"
+      ]
+    },
+    {
+      "key": "AK_Mod_0/handguard_ak_sag_mk2_1.bundle",
+      "dependencyKeys": [
+        "AK_Mod_0/handguard_ak_sag_mk2.bundle",
+        "shaders"
+      ]
+    }
+  ]
+}

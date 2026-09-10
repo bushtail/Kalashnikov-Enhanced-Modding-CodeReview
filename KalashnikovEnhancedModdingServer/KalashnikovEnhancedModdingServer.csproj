@@ -3,6 +3,7 @@
     <TargetFramework>net10.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings><Nullable>enable</Nullable>
     <AssemblyName>KalashnikovEnhancedModding</AssemblyName><Version>$(ModVersion)</Version>
+    <RootNamespace>KalashnikovEnhancedModding</RootNamespace>
     <Product>$(ModName)</Product>
     <Authors>$(ModAuthor)</Authors>
     <RepositoryUrl>$(ModSourceUrl)</RepositoryUrl>
@@ -18,8 +19,12 @@
     <Reference Include="SPTarkov.Server.Core"><HintPath>$(SptRoot)/SPTarkov.Server.Core.dll</HintPath><Private>false</Private></Reference>
     <Reference Include="SPTarkov.Common"><HintPath>$(SptRoot)/SPTarkov.Common.dll</HintPath><Private>false</Private></Reference>
     <Reference Include="SPTarkov.DI"><HintPath>$(SptRoot)/SPTarkov.DI.dll</HintPath><Private>false</Private></Reference>
+    <Reference Include="SPTarkov.Reflection"><HintPath>$(SptRoot)/SPTarkov.Reflection.dll</HintPath><Private>false</Private></Reference>
     <Reference Include="SemanticVersioning"><HintPath>$(SptRoot)/SemanticVersioning.dll</HintPath><Private>false</Private></Reference>
     <Reference Include="WTT-ServerCommonLib"><HintPath>$(CommonLibPath)</HintPath><Private>false</Private></Reference>
   </ItemGroup>
   <ItemGroup><Content Include="../ServerModFiles/db/**/*.json" Link="db/%(RecursiveDir)%(Filename)%(Extension)" CopyToOutputDirectory="PreserveNewest" /></ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="JetBrains.Annotations" Version="2026.2.0" />
+  </ItemGroup>
 </Project>
